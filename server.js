@@ -1,6 +1,6 @@
 var mongo = require('mongodb').MongoClient,
  	client = require('socket.io').listen(8080).sockets,
-    fs = require('fs');
+    	fs = require('fs');
 
 mongo.connect('mongodb://127.0.0.1/database',function(err,db) {
 	if(err){ console.log(err); throw err; };

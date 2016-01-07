@@ -6,4 +6,9 @@ The database implementation is MongoDB. And the backend is NodeJS.
 
 In the future I will be supplying this as a free webservice, which can be used by anyone from anywhere!
 
+Before you can start using:
+
+- Install MongoDB
+- Install NodeJS
+
 

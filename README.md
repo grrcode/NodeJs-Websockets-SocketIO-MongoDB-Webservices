@@ -1,5 +1,5 @@
-# NodeWebsocketWebserviceMongodb
-NodeJS, Websockets (socket.io), Mongodb for creating Webservices,
+# NodeJS Websockets(socket.io) Mongodb as Webservices
+NodeJS, Websockets(socket.io), Mongodb for creating Webservices,
 
 This project combines several techniques to provide very nice and scalable webservices based on websockets! 
 The database implementation is MongoDB. And the backend is NodeJS.

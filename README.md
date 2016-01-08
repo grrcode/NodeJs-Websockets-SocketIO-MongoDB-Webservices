@@ -7,7 +7,7 @@ The database implementation is MongoDB. And the backend is NodeJS.
 In the future I will be supplying this as a free webservice, which can be used by anyone from anywhere!
 
 #Install Mongo & NodeJS
-- Install MongoDB 
+- Install MongoDB (Windows, Linux, MacOS)
 - https://docs.mongodb.org/manual/tutorial/install-mongodb-on-windows/
 - Install NodeJS
 - https://nodejs.org/en/download/
